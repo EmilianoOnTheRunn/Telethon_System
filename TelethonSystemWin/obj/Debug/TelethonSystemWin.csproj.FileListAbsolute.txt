@@ -1,0 +1,15 @@
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.csproj.AssemblyReference.cache
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.csproj.GenerateResource.cache
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\bin\Debug\TelethonSystemWin.exe.config
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\bin\Debug\TelethonSystemWin.exe
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\bin\Debug\TelethonSystemWin.pdb
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\bin\Debug\ETS.pdb
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.csproj.CopyComplete
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.exe
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.pdb
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.Welcome.resources
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\obj\Debug\TelethonSystemWin.ETSTelethon.resources
+C:\Users\Emiliano\Desktop\School\Multi-tier_Application\TelethonSystemWin\TelethonSystemWin\bin\Debug\ETS.dll
